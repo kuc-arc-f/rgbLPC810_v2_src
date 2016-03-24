@@ -1,0 +1,643 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                              ./src/uarttest.o (GPIOSetBitValue)
+C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                              ./src/uarttest.o (mrt_counter)
+C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                              ./src/uarttest.o (UARTInit)
+C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                              ./src/uarttest.o (SystemCoreClockUpdate)
+c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc8xx.o (__main)
+c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+                              ./src/uarttest.o (__aeabi_uidiv)
+c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+UARTRxBuffer        0x20              C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+UARTStatus          0x4               C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+UARTTxBuffer        0x20              C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc8xx.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc8xx.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc8xx.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc8xx.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .group         0x00000000        0x8 ./src/uarttest.o
+ .text          0x00000000        0x0 ./src/uarttest.o
+ .data          0x00000000        0x0 ./src/uarttest.o
+ .bss           0x00000000        0x0 ./src/uarttest.o
+ .debug_macro   0x00000000      0x83e ./src/uarttest.o
+ .debug_macro   0x00000000       0x1c ./src/uarttest.o
+ .debug_macro   0x00000000       0x3a ./src/uarttest.o
+ .debug_macro   0x00000000       0x10 ./src/uarttest.o
+ .debug_macro   0x00000000      0x12d ./src/uarttest.o
+ .debug_macro   0x00000000      0x5b2 ./src/uarttest.o
+ .debug_macro   0x00000000       0x1f ./src/uarttest.o
+ .debug_macro   0x00000000      0x242 ./src/uarttest.o
+ .debug_macro   0x00000000      0x146 ./src/uarttest.o
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text          0x00000000        0x0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .data          0x00000000        0x0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss           0x00000000        0x0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.NVIC_EnableIRQ
+                0x00000000       0x2c C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss.gint0_counter
+                0x00000000        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss.gint1_counter
+                0x00000000        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss.gint0_level_counter
+                0x00000000        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss.gint0_edge_counter
+                0x00000000        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss.gint1_level_counter
+                0x00000000        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .bss.gint1_edge_counter
+                0x00000000        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.PIN3_IRQHandler
+                0x00000000       0x10 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOInit
+                0x00000000       0x3c C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOSetPinInterrupt
+                0x00000000       0xd8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOPinIntEnable
+                0x00000000       0x68 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOPinIntDisable
+                0x00000000       0x68 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOPinIntStatus
+                0x00000000       0x2c C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOPinIntClear
+                0x00000000       0x34 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOGetPinValue
+                0x00000000       0x4c C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOPatternMatchInit
+                0x00000000       0x18 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOSetPatternMatchInput
+                0x00000000       0x24 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOSetPatternMatchSlice
+                0x00000000       0xb8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .text.GPIOPatternMatchEnable
+                0x00000000       0x48 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000      0x83e C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000       0x1c C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000       0x1f C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000      0x242 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000      0x146 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00000000      0x112 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .text          0x00000000        0x0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .data          0x00000000        0x0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .bss           0x00000000        0x0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .text.delayMs  0x00000000       0x34 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x83e C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x1c C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x1f C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x242 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000      0x146 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00000000       0x2e C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .group         0x00000000        0x8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .text          0x00000000        0x0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .data          0x00000000        0x0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .bss           0x00000000        0x0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .bss.UARTTxCount
+                0x00000000        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .bss.RxErrorCount
+                0x00000000        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .bss.TxErrorCount
+                0x00000000        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .bss.ParityErrorCount
+                0x00000000        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .bss.UARTBlockTransmitted
+                0x00000000        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .text.UARTSend
+                0x00000000       0x54 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .text.USARTInit
+                0x00000000       0xc0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_macro   0x00000000      0x83e C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_macro   0x00000000       0x1c C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_macro   0x00000000       0x1f C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_macro   0x00000000      0x242 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_macro   0x00000000      0x146 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_macro   0x00000000      0x124 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .group         0x00000000        0x8 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0x8 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0x8 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0x8 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0x8 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0x8 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0x8 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0x8 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .group         0x00000000        0x8 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .text          0x00000000        0x0 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .data          0x00000000        0x0 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .bss           0x00000000        0x0 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000       0x1c C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000       0x1f C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000      0x242 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00000000      0x146 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash16         0x00000000         0x00004000         xr
+RamLoc4          0x10000000         0x00001000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc8xx.o
+LOAD ./src/crp.o
+LOAD ./src/uarttest.o
+LOAD C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a
+LOAD C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_MFlash16 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00004000                __top_MFlash16 = 0x4000
+                0x00004000                __top_Flash = 0x4000
+                0x10000000                __base_RamLoc4 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10001000                __top_RamLoc4 = 0x10001000
+                0x10001000                __top_RAM = 0x10001000
+
+.text           0x00000000      0xcb4
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc8xx.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0xcb4 LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0x8 SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x10000008 ADDR (.bss)
+                0x000000d0        0x4 LONG 0xe0 SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4       0x70 ./src/cr_startup_lpc8xx.o
+                0x000000d4                NMI_Handler
+                0x000000d6                HardFault_Handler
+                0x000000d8                PendSV_Handler
+                0x000000da                SysTick_Handler
+                0x000000dc                WKT_IRQHandler
+                0x000000dc                CMP_IRQHandler
+                0x000000dc                IntDefaultHandler
+                0x000000dc                WDT_IRQHandler
+                0x000000dc                SPI1_IRQHandler
+                0x000000dc                I2C_IRQHandler
+                0x000000dc                SCT_IRQHandler
+                0x000000dc                PININT3_IRQHandler
+                0x000000dc                BOD_IRQHandler
+                0x000000dc                SPI0_IRQHandler
+                0x000000de                data_init
+                0x000000f0                bss_init
+                0x00000100                ResetISR
+                0x00000140                SVCall_Handler
+                0x000002fc                . = 0x2fc
+ *fill*         0x00000144      0x1b8 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.SwitchMatrix_Init
+                0x00000300       0x38 ./src/uarttest.o
+                0x00000300                SwitchMatrix_Init
+ .text.LoopbackTest
+                0x00000338       0x4c ./src/uarttest.o
+                0x00000338                LoopbackTest
+ .text.main     0x00000384       0x9c ./src/uarttest.o
+                0x00000384                main
+ .text.PININT_Handler
+                0x00000420      0x1c4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000420                PININT_Handler
+ .text.PININT0_IRQHandler
+                0x000005e4       0x10 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x000005e4                PININT0_IRQHandler
+ .text.PININT1_IRQHandler
+                0x000005f4       0x10 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x000005f4                PININT1_IRQHandler
+ .text.PININT2_IRQHandler
+                0x00000604       0x10 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000604                PININT2_IRQHandler
+ .text.PININT4_IRQHandler
+                0x00000614       0x10 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000614                PININT4_IRQHandler
+ .text.PININT5_IRQHandler
+                0x00000624       0x10 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000624                PININT5_IRQHandler
+ .text.PININT6_IRQHandler
+                0x00000634       0x10 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000634                PININT6_IRQHandler
+ .text.PININT7_IRQHandler
+                0x00000644       0x10 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000644                PININT7_IRQHandler
+ .text.GPIOSetBitValue
+                0x00000654       0x44 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000654                GPIOSetBitValue
+ .text.GPIOSetDir
+                0x00000698       0x5c C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x00000698                GPIOSetDir
+ .text.NVIC_EnableIRQ
+                0x000006f4       0x2c C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .text.MRT_IRQHandler
+                0x00000720       0x30 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                0x00000720                MRT_IRQHandler
+ .text.init_mrt
+                0x00000750       0x6c C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                0x00000750                init_mrt
+ .text.NVIC_EnableIRQ
+                0x000007bc       0x2c C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .text.NVIC_DisableIRQ
+                0x000007e8       0x30 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .text.UART_Handler
+                0x00000818       0xc0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x00000818                UART_Handler
+ .text.UART0_IRQHandler
+                0x000008d8       0x18 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x000008d8                UART0_IRQHandler
+ .text.UART1_IRQHandler
+                0x000008f0       0x18 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x000008f0                UART1_IRQHandler
+ .text.UART2_IRQHandler
+                0x00000908       0x18 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x00000908                UART2_IRQHandler
+ .text.UARTClock_Init
+                0x00000920       0xd4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x00000920                UARTClock_Init
+ .text.UARTInit
+                0x000009f4       0xfc C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x000009f4                UARTInit
+ .text.SystemCoreClockUpdate
+                0x00000af0       0xa0 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                0x00000af0                SystemCoreClockUpdate
+ .text.SystemInit
+                0x00000b90       0x44 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                0x00000b90                SystemInit
+ .text.__weak_main
+                0x00000bd4        0x8 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+                0x00000bd4                __weak_main
+                0x00000bd4                __main
+ .text.__aeabi_division_idivmod
+                0x00000bdc       0x78 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+                0x00000bdc                __aeabi_idivmod
+                0x00000bdc                __aeabi_idiv
+                0x00000be2                __aeabi_uidivmod
+                0x00000be2                __aeabi_uidiv
+ .text.__aeabi_division_idiv0
+                0x00000c54        0x2 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+                0x00000c54                __aeabi_idiv0
+ *(.rodata .rodata.* .constdata .constdata.*)
+ *fill*         0x00000c56        0x2 ff
+ .rodata.PININT_Handler
+                0x00000c58       0x20 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .rodata.CSWTCH.6
+                0x00000c78       0x3c C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                0x00000cb4                . = ALIGN (0x4)
+
+.glue_7         0x00000cb4        0x0
+ .glue_7        0x00000cb4        0x0 linker stubs
+
+.glue_7t        0x00000cb4        0x0
+ .glue_7t       0x00000cb4        0x0 linker stubs
+
+.vfp11_veneer   0x00000cb4        0x0
+ .vfp11_veneer  0x00000cb4        0x0 linker stubs
+
+.v4_bx          0x00000cb4        0x0
+ .v4_bx         0x00000cb4        0x0 linker stubs
+
+.iplt           0x00000cb4        0x0
+ .iplt          0x00000cb4        0x0 ./src/cr_startup_lpc8xx.o
+
+.rel.dyn        0x00000cb4        0x0
+ .rel.iplt      0x00000cb4        0x0 ./src/cr_startup_lpc8xx.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000cb4                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000cb4                __exidx_end = .
+                0x00000cb4                _etext = .
+
+.mtb_buffer_default
+ *(.mtb*)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x8 load address 0x00000cb4
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.UARTTxEmpty
+                0x10000000        0x1 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x10000000                UARTTxEmpty
+ *fill*         0x10000001        0x3 ff
+ .data.SystemCoreClock
+                0x10000004        0x4 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                0x10000004                SystemCoreClock
+                0x10000008                . = ALIGN (0x4)
+                0x10000008                _edata = .
+
+.igot.plt       0x10000008        0x0 load address 0x00000cbc
+ .igot.plt      0x10000008        0x0 ./src/cr_startup_lpc8xx.o
+
+.bss            0x10000008       0xe0 load address 0x00000cbc
+                0x10000008                _bss = .
+ *(.bss*)
+ .bss.UARTLoopbackCount
+                0x10000008        0x4 ./src/uarttest.o
+                0x10000008                UARTLoopbackCount
+ .bss.flex_int_counter
+                0x1000000c       0x20 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x1000000c                flex_int_counter
+ .bss.flex_int_level_counter
+                0x1000002c       0x20 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x1000002c                flex_int_level_counter
+ .bss.flex_int_rising_edge_counter
+                0x1000004c       0x20 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x1000004c                flex_int_rising_edge_counter
+ .bss.flex_int_falling_edge_counter
+                0x1000006c       0x20 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                0x1000006c                flex_int_falling_edge_counter
+ .bss.mrt_counter
+                0x1000008c        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                0x1000008c                mrt_counter
+ .bss.UARTRxCount
+                0x10000090        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x10000090                UARTRxCount
+ .bss.UARTRxRdyCount
+                0x10000094        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x10000094                UARTRxRdyCount
+ .bss.UARTBlockReceived
+                0x10000098        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x10000098                UARTBlockReceived
+ .bss.AddrDetected
+                0x1000009c        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x1000009c                AddrDetected
+ .bss.UARTInterruptCount
+                0x100000a0        0x4 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x100000a0                UARTInterruptCount
+ *(COMMON)
+ COMMON         0x100000a4       0x44 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                0x100000a4                UARTRxBuffer
+                0x100000c4                UARTStatus
+                0x100000c8                UARTTxBuffer
+                0x100000e8                . = ALIGN (0x4)
+                0x100000e8                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit         0x100000e8        0x0 load address 0x00000cbc
+                0x100000e8                _noinit = .
+ *(.noinit*)
+                0x100000e8                . = ALIGN (0x4)
+                0x100000e8                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10001000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc4 - 0x0))
+                [!provide]                PROVIDE (__valid_user_code_checksum, (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+OUTPUT(UART.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x28c2
+ .debug_info    0x00000000      0x27b ./src/cr_startup_lpc8xx.o
+ .debug_info    0x0000027b       0x3f ./src/crp.o
+ .debug_info    0x000002ba      0x5e4 ./src/uarttest.o
+ .debug_info    0x0000089e      0xc39 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_info    0x000014d7      0x6c9 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_info    0x00001ba0      0x90d C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_info    0x000024ad      0x415 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+
+.debug_abbrev   0x00000000      0x97e
+ .debug_abbrev  0x00000000      0x12b ./src/cr_startup_lpc8xx.o
+ .debug_abbrev  0x0000012b       0x36 ./src/crp.o
+ .debug_abbrev  0x00000161      0x196 ./src/uarttest.o
+ .debug_abbrev  0x000002f7      0x222 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_abbrev  0x00000519      0x18f C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_abbrev  0x000006a8      0x1f0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_abbrev  0x00000898       0xe6 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+
+.debug_loc      0x00000000      0x24a
+ .debug_loc     0x00000000      0x1d4 ./src/cr_startup_lpc8xx.o
+ .debug_loc     0x000001d4       0x76 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+
+.debug_aranges  0x00000000      0x240
+ .debug_aranges
+                0x00000000       0x60 ./src/cr_startup_lpc8xx.o
+ .debug_aranges
+                0x00000060       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000078       0x30 ./src/uarttest.o
+ .debug_aranges
+                0x000000a8       0xd0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_aranges
+                0x00000178       0x38 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_aranges
+                0x000001b0       0x68 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_aranges
+                0x00000218       0x28 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+
+.debug_ranges   0x00000000      0x1c8
+ .debug_ranges  0x00000000       0x50 ./src/cr_startup_lpc8xx.o
+ .debug_ranges  0x00000050       0x20 ./src/uarttest.o
+ .debug_ranges  0x00000070       0xc0 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_ranges  0x00000130       0x28 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_ranges  0x00000158       0x58 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_ranges  0x000001b0       0x18 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+
+.debug_macro    0x00000000     0x2a43
+ .debug_macro   0x00000000       0x82 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000082      0x844 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x000008c6       0x1c ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x000008e2       0x3a ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x0000091c       0x10 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x0000092c      0x12d ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x00000a59      0x5b2 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x0000100b       0x1f ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x0000102a      0x242 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x0000126c      0x146 ./src/cr_startup_lpc8xx.o
+ .debug_macro   0x000013b2       0x1a ./src/crp.o
+ .debug_macro   0x000013cc      0x83e ./src/crp.o
+ .debug_macro   0x00001c0a       0x34 ./src/crp.o
+ .debug_macro   0x00001c3e       0x9a ./src/uarttest.o
+ .debug_macro   0x00001cd8       0x22 ./src/uarttest.o
+ .debug_macro   0x00001cfa      0x112 ./src/uarttest.o
+ .debug_macro   0x00001e0c       0x2e ./src/uarttest.o
+ .debug_macro   0x00001e3a      0x124 ./src/uarttest.o
+ .debug_macro   0x00001f5e       0x88 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00001fe6       0x16 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_macro   0x00001ffc       0x88 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_macro   0x00002084       0x88 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_macro   0x0000210c       0xf9 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .debug_macro   0x00002205      0x83e C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+
+.debug_line     0x00000000      0xf17
+ .debug_line    0x00000000      0x1c0 ./src/cr_startup_lpc8xx.o
+ .debug_line    0x000001c0       0x78 ./src/crp.o
+ .debug_line    0x00000238      0x22d ./src/uarttest.o
+ .debug_line    0x00000465      0x402 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_line    0x00000867      0x20b C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_line    0x00000a72      0x2e3 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_line    0x00000d55      0x1c2 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+
+.debug_str      0x00000000     0x697c
+ .debug_str     0x00000000     0x525b ./src/cr_startup_lpc8xx.o
+                               0x52da (size before relaxing)
+ .debug_str     0x0000525b      0x1a6 ./src/crp.o
+                               0x2445 (size before relaxing)
+ .debug_str     0x00005401      0xaa6 ./src/uarttest.o
+                               0x5bf5 (size before relaxing)
+ .debug_str     0x00005ea7      0x5d8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+                               0x5bc6 (size before relaxing)
+ .debug_str     0x0000647f       0xa1 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+                               0x5708 (size before relaxing)
+ .debug_str     0x00006520      0x184 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+                               0x5b5d (size before relaxing)
+ .debug_str     0x000066a4      0x2d8 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+                               0x5633 (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ./src/cr_startup_lpc8xx.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./src/crp.o
+ .comment       0x0000006e       0x6f ./src/uarttest.o
+ .comment       0x0000006e       0x6f C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .comment       0x0000006e       0x6f C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .comment       0x0000006e       0x6f C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .comment       0x0000006e       0x6f C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .comment       0x0000006e       0x6f c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x31 ./src/cr_startup_lpc8xx.o
+ .ARM.attributes
+                0x00000031       0x31 ./src/crp.o
+ .ARM.attributes
+                0x00000062       0x31 ./src/uarttest.o
+ .ARM.attributes
+                0x00000093       0x31 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .ARM.attributes
+                0x000000c4       0x31 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .ARM.attributes
+                0x000000f5       0x31 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .ARM.attributes
+                0x00000126       0x31 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
+ .ARM.attributes
+                0x00000157       0x31 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv6-m\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x00000188       0x21 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x000001a9       0x21 c:/nxp/lpcxpresso_8.1.0_597/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.2.1/armv6-m\libcr_eabihelpers.a(division_idiv0.o)
+
+.debug_frame    0x00000000      0x5f4
+ .debug_frame   0x00000000       0xb0 ./src/cr_startup_lpc8xx.o
+ .debug_frame   0x000000b0       0x68 ./src/uarttest.o
+ .debug_frame   0x00000118      0x2c8 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_gpio.o)
+ .debug_frame   0x000003e0       0x8c C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_mrt.o)
+ .debug_frame   0x0000046c      0x144 C:\nxp\work\lpc800_driver_lib\Debug\liblpc800_driver_lib.a(lpc8xx_uart.o)
+ .debug_frame   0x000005b0       0x44 C:\nxp\work\CMSIS_CORE_LPC8xx\Debug\libCMSIS_CORE_LPC8xx.a(system_LPC8xx.o)
